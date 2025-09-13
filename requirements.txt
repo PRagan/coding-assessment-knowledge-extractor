@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+openai
+nltk
+python-multipart
+python-dotenv
+pytest
+pytest-asyncio
+httpx
